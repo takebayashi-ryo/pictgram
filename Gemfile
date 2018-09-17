@@ -66,5 +66,8 @@ end
 gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 gem 'bootstrap-sass'
 gem "jquery-rails"
+gem 'jquery-ui-rails'
 gem 'bcrypt'
 gem "carrierwave"
+gem 'devise'
+gem 'counter_culture', '~> 1.8'
